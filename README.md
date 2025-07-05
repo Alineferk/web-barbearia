@@ -1,31 +1,27 @@
-# Web Barbearia  https://alineferk.github.io/Site-academia/
+# Web Barbearia ✂️ https://alineferk.github.io/web-barbearia/
 
-Este é um site moderno para uma barbearia, desenvolvido com **Next.js** e **React**, com foco em oferecer uma experiência rápida, responsiva e visualmente agradável para os usuários.
+Um site moderno e responsivo para uma barbearia, desenvolvido em **Next.js** com foco em performance, boa experiência do usuário e fácil manutenção.
 
-## Tecnologias Utilizadas
+---
 
-- [Next.js](https://nextjs.org/) — framework React para SSR e SSG
-- React — biblioteca para construção da interface
-- CSS Modules — para estilização modular e isolada dos componentes
-- next/image — otimização e carregamento eficiente de imagens
+## 🚀 Tecnologias utilizadas
 
-## Funcionalidades
+- **Next.js** — framework React para SSR, SSG e App Router
+- **React** — construção da interface
+- **CSS Modules** — para estilos encapsulados, evitando conflitos globais
+- **next/image** — para otimizar o carregamento das imagens
 
-- Página inicial com banner e chamada para ação
-- Apresentação dos serviços oferecidos pela barbearia
-- Seção de contato com informações para o cliente
-- Layout totalmente responsivo, funcionando bem em dispositivos móveis e desktop
+---
+
+## 🔥 Funcionalidades principais
+
+- Página inicial com banner chamativo e informações sobre a barbearia
+- Seções para apresentar serviços, equipe e contato
+- Design totalmente **responsivo**, adaptando-se a celulares, tablets e desktops
 - Imagens otimizadas para melhor performance
+- Estrutura modular usando o App Router do Next.js (`/app`)
 
-## Estrutura do Projeto
+---
 
-- Componentes React organizados modularmente
-- Páginas estruturadas conforme padrão do Next.js
-- Estilos isolados usando CSS Modules para evitar conflitos globais
+## 📁 Estrutura do projeto
 
-## Como Rodar o Projeto Localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Alineferk/web-barbearia.git
-   cd web-barbearia
